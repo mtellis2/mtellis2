@@ -1,4 +1,4 @@
-# Hi, folks! <img src="https://raw.githubusercontent.com/mtellis2/mtellis2/master/wave.gif" width="30px">
+# Hi, folks! <img src="https://raw.githubusercontent.com/mtellis2/mtellis2/main/wave.gif" width="30px">
 
 
 Here are some ideas to get you started:
