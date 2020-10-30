@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning it al
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [![GitHub][1.2]][1], or on [![LinkedIn][2.2]][3]
+- 📫 How to reach me: <a href="https://github.com/mtellis2"><img src="https://raw.githubusercontent.com/mtellis2/mtellis2/main/github.svg" width="30px"></a> [![GitHub][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 
 
@@ -20,6 +20,6 @@
 [2.2]: https://raw.githubusercontent.com/mtellis2/mtellis2/main/linkedin.svg (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 [1]: https://github.com/mtellis2
 [2]: https://www.linkedin.com/in/michael-ellis-72962276/
