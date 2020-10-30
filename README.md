@@ -8,6 +8,6 @@
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
-  I recently had a son and I'd like to develop an educational game that you would be able to interact with and play in the next few months. 🎮 👶
+  I recently had a son and I'd like to develop an educational game that he would be able to interact with and play in the next few months. 🎮 👶
 </details>
 
