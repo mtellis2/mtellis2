@@ -1,4 +1,4 @@
-# Hi, folks! <img src="https://raw.githubusercontent.com/mtellis2/mtellis2/main/wave.gif" width="30px">
+# Hi <img src="https://raw.githubusercontent.com/mtellis2/mtellis2/main/wave.gif" width="30px">
 
 
 - 👯 I’m looking to collaborate on anything, just reach out!
